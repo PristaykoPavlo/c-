@@ -27,7 +27,7 @@ namespace ConsoleApp1
                         break;
 
                 }
-            }
+            }//
             return amount;
         }
         static void Main(string[] args)
